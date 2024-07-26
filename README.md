@@ -1,4 +1,4 @@
-## ¡Hola! 👋
+# ¡Hola! 👋
 Sean bienvenidos a mi repositorio
 
 ![Banner Personal](https://github.com/user-attachments/assets/97dbac83-7be7-4a48-9817-3f3c5865d8e1)
